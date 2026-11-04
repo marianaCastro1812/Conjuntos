@@ -13,7 +13,6 @@ public class Vectores {
         this.cantidad = 0;
     }
 
-    // SUBMENU
 
     public void submenu() {
 
